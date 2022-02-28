@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qyyCm/AK42bGU5f6Ah2YvRpzMB6lpa5hh27xVv1wuyvM28CjF02Hkz7ke4XM/4paOg9CUxC7NLQYrv8aV/MASw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikola\\OneDrive\\Desktop\\MyProject\\OnlineInteriorDesign\\OnlineInteriorDesign\\OnlineInteriorDesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikola\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
