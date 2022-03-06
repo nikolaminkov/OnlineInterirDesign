@@ -6,7 +6,7 @@ namespace OnlineInteriorDesign.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return Error();
         }
     }
 }
